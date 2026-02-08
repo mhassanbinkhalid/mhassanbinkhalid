@@ -21,14 +21,16 @@
 ---
 
 ### ⚙️ Backend Development  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Clerk](https://img.shields.io/badge/Clerk-%235C47FF.svg?style=flat&logo=clerk&logoColor=white) ![Winston](https://img.shields.io/badge/Winston-%235C8DBC.svg?style=flat&logo=winston&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt-%2300A98F.svg?style=flat&logo=security&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233776E0.svg?style=flat&logo=cloudinary&logoColor=white) ![Helmet](https://img.shields.io/badge/Helmet-%23000000.svg?style=flat&logo=helmet&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-%23007BFF.svg?style=flat&logo=maildotru&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-%23FF0000.svg?style=flat&logo=redis&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Clerk](https://img.shields.io/badge/Clerk-%235C47FF.svg?style=flat&logo=clerk&logoColor=white) ![Winston](https://img.shields.io/badge/Winston-%235C8DBC.svg?style=flat&logo=winston&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt-%2300A98F.svg?style=flat&logo=security&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233776E0.svg?style=flat&logo=cloudinary&logoColor=white) ![Helmet](https://img.shields.io/badge/Helmet-%23000000.svg?style=flat&logo=helmet&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-%23007BFF.svg?style=flat&logo=maildotru&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-%23FF0000.svg?style=flat&logo=redis&logoColor=white) 
 
 
 ---
 
 ### 🧩 Databases & ORMs  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat&logo=mongoose&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat&logo=mongoose&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-%2300C8B3.svg?style=flat&logo=neon&logoColor=white)
+
 
 
 
