@@ -47,6 +47,20 @@
 
 ---
 
+### ⚙️ DevOps & Cloud  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)  
+![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)  
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?style=flat&logo=ansible&logoColor=white)  
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white)
+
+---
+
 ### 🧮 Data Science & Visualization  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
