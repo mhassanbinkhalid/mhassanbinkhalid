@@ -1,0 +1,31 @@
+<svg width="380" height="190" viewBox="0 0 380 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF4B1F" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#FF4B1F" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="f" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#181818"/>
+      <stop offset="1" stop-color="#0E0E0E"/>
+    </linearGradient>
+    <radialGradient id="g" cx="1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#FF4B1F" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#FF4B1F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="378" height="188" rx="20" fill="url(#f)" stroke="url(#b)" stroke-width="2"/>
+  <rect x="1" y="1" width="378" height="188" rx="20" fill="url(#g)"/>
+  <rect x="28" y="28" width="52" height="52" rx="14" fill="#FF4B1F" fill-opacity="0.14" stroke="#FF4B1F" stroke-opacity="0.5"/>
+  <g stroke="#FF4B1F" stroke-width="3" stroke-linecap="round">
+    <path d="M44 42 L54 54 M54 54 L66 44 M54 54 L54 68 M44 66 L54 54"/>
+  </g>
+  <g fill="#FFFFFF">
+    <circle cx="44" cy="42" r="4"/><circle cx="66" cy="44" r="4"/><circle cx="44" cy="66" r="4"/><circle cx="54" cy="68" r="0"/>
+  </g>
+  <circle cx="54" cy="54" r="6" fill="#FF4B1F"/>
+  <text x="352" y="50" text-anchor="end" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.25">02</text>
+  <text x="28" y="116" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">AI &amp; Integrations</text>
+  <text x="28" y="144" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#A0A0A0">AI-powered apps and LLM integrations</text>
+  <text x="28" y="164" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#A0A0A0">that make products genuinely smarter.</text>
+</svg>
