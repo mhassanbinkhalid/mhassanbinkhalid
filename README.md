@@ -1,75 +1,176 @@
-# 💫 About Me:
-👋 Hey there! I’m Muhammad Hassan, a Full Stack Web Developer who loves turning ideas into fast, modern, and scalable web apps.<br>💻 I work mainly with the MERN Stack, focusing on clean architecture, smooth UI/UX, and high performance.<br><br>🧠 I enjoy solving complex problems, exploring new technologies, and writing code that feels good — not just works.<br>⚙️ From front-end polish to backend logic, I love making everything click together perfectly.<br><br>🔥 Always learning. Always building. 🚀
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D0D0D,50:FF4B1F,100:FF9068&text=Muhammad%20Hassan&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI-Powered%20Web%20Apps&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Hassan-Bin-Khalid](https://www.facebook.com/people/Hassan-Bin-Khalid/pfbid0mWnAjLdvGP87PsRWg28qQiMN2toipEvnxvaxdBJTpcrJfLCW6gAj9g3HkmHbY4hyl)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhassan.bin.khalid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hassan-bin-khalid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itxmhassan@gmail.com) 
+<a href="https://github.com/mhassanbinkhalid">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF4B1F&center=true&vCenter=true&width=700&lines=Turning+ideas+into+fast%2C+modern+%26+scalable+web+apps;Clean+architecture.+Smooth+UI%2FUX.+High+performance.;AI+Integrations+%26+Automation+that+actually+ship;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-## 💻 Tech Stack
+<br/>
 
-### 🧠 Programming Languages  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)   ![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=flat&logo=asm&logoColor=white)
+<a href="https://linkedin.com/in/muhammad-hassan-bin-khalid"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF4B1F" /></a>
+<a href="https://instagram.com/mhassan.bin.khalid"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FF4B1F" /></a>
+<a href="https://www.facebook.com/people/Hassan-Bin-Khalid/pfbid0mWnAjLdvGP87PsRWg28qQiMN2toipEvnxvaxdBJTpcrJfLCW6gAj9g3HkmHbY4hyl"><img src="https://img.shields.io/badge/Facebook-0D0D0D?style=for-the-badge&logo=facebook&logoColor=FF4B1F" /></a>
+<a href="mailto:itxmhassan@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF4B1F" /></a>
 
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=mhassanbinkhalid&label=Profile%20Views&color=FF4B1F&style=for-the-badge&labelColor=0D0D0D" alt="views" />
+<img src="https://img.shields.io/github/followers/mhassanbinkhalid?style=for-the-badge&color=FF4B1F&labelColor=0D0D0D&logo=github" alt="followers" />
 
-### ⚛️ Frontend Development  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)  ![Context API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react)  ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white)  ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000.svg?style=flat&logo=shadcnui&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=flat&logo=framer&logoColor=white)
+</div>
 
+<br/>
 
+<!-- ═══════════════════════════ ABOUT CARDS ═══════════════════════════ -->
 
----
+## 👋 &nbsp;Hey, I'm Hassan
 
-### ⚙️ Backend Development  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Clerk](https://img.shields.io/badge/Clerk-%235C47FF.svg?style=flat&logo=clerk&logoColor=white) ![Winston](https://img.shields.io/badge/Winston-%235C8DBC.svg?style=flat&logo=winston&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt-%2300A98F.svg?style=flat&logo=security&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233776E0.svg?style=flat&logo=cloudinary&logoColor=white) ![Helmet](https://img.shields.io/badge/Helmet-%23000000.svg?style=flat&logo=helmet&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-%23007BFF.svg?style=flat&logo=maildotru&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-%23FF0000.svg?style=flat&logo=redis&logoColor=white) 
+> I love turning ideas into **fast, modern and scalable** web apps — from front-end polish to backend logic, making everything click together perfectly.
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💻 What I Build</h3>
+      <sub>Full-stack web apps, SaaS products, dashboards and CRMs with clean architecture and smooth UI/UX.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI &amp; Automation</h3>
+      <sub>AI-powered web apps, LLM integrations and workflow automation that save real hours.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ How I Work</h3>
+      <sub>Complex problems, new tech, and code that feels good — not just code that works.</sub>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
----
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
-### 🧩 Databases & ORMs  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat&logo=mongoose&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-%2300C8B3.svg?style=flat&logo=neon&logoColor=white)
+## 🧰 &nbsp;Tech Stack
 
+<table>
+  <tr>
+    <td width="170"><b>🧠 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,asm&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚛️ Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vite,tailwind,mui,bootstrap&theme=dark" /><br/>
+      <sub>Context API • GSAP • Framer Motion • shadcn/ui • Chart.js</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi&theme=dark" /><br/>
+      <sub>JWT • Socket.io • Clerk • BullMQ • Winston • Helmet • Nodemailer • Cloudinary</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma&theme=dark" /><br/>
+      <sub>Mongoose • Neon</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>☁️ Hosting</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,digitalocean,aws&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🚀 DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,jenkins,terraform,ansible,grafana,prometheus&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,npm,nx,figma&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>📊 Data</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" /><br/>
+      <sub>Matplotlib</sub>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 
----
+## 📊 &nbsp;GitHub Stats
 
-### ☁️ Hosting & Deployment  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=DigitalOcean&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)  ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat&logo=glitch&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+<div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mhassanbinkhalid&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF4B1F&icon_color=FF4B1F&text_color=F2F2F2&ring_color=FF4B1F&border_radius=16&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassanbinkhalid&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF4B1F&text_color=F2F2F2&border_radius=16&langs_count=8" />
 
----
+<br/>
 
-### 🧠 Tools & Utilities  
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)  ![Nx](https://img.shields.io/badge/nx-143055?style=flat&logo=nx&logoColor=white)  ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)  ![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=mhassanbinkhalid&hide_border=true&background=0D0D0D&ring=FF4B1F&fire=FF4B1F&currStreakLabel=FF4B1F&currStreakNum=F2F2F2&sideNums=F2F2F2&sideLabels=FF9068&dates=9A9A9A&border_radius=16" />
 
----
+<br/>
 
-### ⚙️ DevOps & Cloud  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)  ![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white)  ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)  ![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?style=flat&logo=ansible&logoColor=white)  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)  ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhassanbinkhalid&bg_color=0D0D0D&color=FF9068&line=FF4B1F&point=FFFFFF&area=true&area_color=FF4B1F&hide_border=true&radius=16" width="95%" />
 
----
+</div>
 
-### 🧮 Data Science & Visualization  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+<br/>
 
----
+<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
 
-### 🎨 Design Tools  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+<div align="center">
 
-# 📊 GitHub Stats:
-![mhassanbinkhalid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhassanbinkhalid&theme=vue-dark&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=mhassanbinkhalid&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
+</div>
 
+<br/>
 
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 
+## 🤝 &nbsp;Let's Connect
 
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://linkedin.com/in/muhammad-hassan-bin-khalid"><b>LinkedIn</b></a><br/>
+      <sub>Let's talk work</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://instagram.com/mhassan.bin.khalid"><b>Instagram</b></a><br/>
+      <sub>Behind the build</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.facebook.com/people/Hassan-Bin-Khalid/pfbid0mWnAjLdvGP87PsRWg28qQiMN2toipEvnxvaxdBJTpcrJfLCW6gAj9g3HkmHbY4hyl"><b>Facebook</b></a><br/>
+      <sub>Say hi</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:itxmhassan@gmail.com"><b>Email</b></a><br/>
+      <sub>itxmhassan@gmail.com</sub>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<i>🔥 Always learning. Always building. 🚀</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF9068,50:FF4B1F,100:0D0D0D&section=footer" width="100%" alt="footer" />
+
+</div>
